@@ -1,3 +1,3 @@
-🔢 currently deal with data.
-💻 currently learn to build service.
-🍔 luckly to be burger.
+🔢 currently deal with data. </br>
+💻 currently learn to build service. </br>
+🍔 luckly to be burger. </br>
