@@ -1,5 +1,5 @@
 here is sc-56, who codes sometimes.
 
-> 🔢  &nbsp; currently deal with data. </br>
-> 💻  &nbsp; currently learn to build service. </br>
-> 🍔  &nbsp; luckly to be burger eater. </br>
+> 🔢  &nbsp; see data. </br>
+> 💻  &nbsp; build service. </br>
+> 🍔  &nbsp; eat burger. </br>
